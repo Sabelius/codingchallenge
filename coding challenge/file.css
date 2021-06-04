@@ -1,0 +1,53 @@
+body{
+  background-size:100% 100%;
+  background-position: center;
+}
+.container{
+  width: 850px;
+  margin: auto;
+  background-color: black;
+  opacity: 0.8;
+  border-radius: 10px;
+}
+.subcontainer{
+  width: 700px;
+  margin: auto;
+}
+.logo{
+  width: 200px;
+  margin-left: 35%;
+}
+.titolo{
+  color:green;
+  display: block;
+  text-align: center;
+}
+.bottoni{
+  text-align: center;
+  background-color: green;
+  background-size:20px;
+}
+section{
+  color:white;
+}
+.star:before{
+  content:"\25A0";
+}
+.star1:before{
+  content:"\21A6";
+}
+.uno{
+ margin-right:70%;
+ border: 10px solid yellow;
+ border-radius: 10px;
+}
+.due{
+  margin-right:50%;
+  border: 10px solid green;
+  border-radius: 10px;
+}
+.tre{
+  margin-right:85%;
+  border:10px solid red;
+  border-radius: 10px;
+}
